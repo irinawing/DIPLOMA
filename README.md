@@ -85,12 +85,19 @@ npm run test
 - [Богдан Звягинцев](tg://resolve?domain=bzvyagintsev) — Front-End Engineer
 
 ## Источники
+
 https://matplotlib.org/
+
 https://seaborn.pydata.org/
+
 https://plotly.com/python/
 
+
 https://blog.skillfactory.ru/glossary/matplotlib/
+
 https://blog.skillfactory.ru/glossary/seaborn/
+
 https://blog.skillfactory.ru/vizualizatsiya-dannyh-v-python-s-pomoschyu-plotly/
+
 
 Python для сложных задач. Наука о данных. 2-е междунар. изд. / Плас Вандер Джейк — Астана: "Спринт Бук", 2024. — 592 с.
