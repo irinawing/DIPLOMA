@@ -1,4 +1,4 @@
-"id","Region.Country.Area","Year","Series","National.currency","Value"
+"id","Country","Year","Series","Currency","Value"
 112,"Belarus",1995,"Exchange rates: end of period (national currency per US dollar)","Belarusian Ruble (BYN)","0.0000"
 112,"Belarus",2005,"Exchange rates: end of period (national currency per US dollar)","Belarusian Ruble (BYN)","0.2152"
 112,"Belarus",2010,"Exchange rates: end of period (national currency per US dollar)","Belarusian Ruble (BYN)","0.3000"
