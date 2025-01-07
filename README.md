@@ -83,7 +83,7 @@
    plt.show()
 
 ```
-![image](https://github.com/user-attachments/assets/7bb23165-835d-4c5e-bff1-532907226046)
+![image](https://github.com/user-attachments/assets/5ae236d7-aec8-442c-b33e-45ae08390885)
 
 ### Примеры 2: Seaborn
 Пример использования для создания **линейного графика**:
@@ -100,9 +100,7 @@ plt.title("Линейный график (Seaborn)")
 plt.show()
 
 ```
-![image](https://github.com/user-attachments/assets/38adb446-be0f-42ab-8440-8d9d5447d0db)
-![image](https://github.com/user-attachments/assets/66bec675-6bfe-4893-8e59-d862e05e6fc5)
-
+![image](https://github.com/user-attachments/assets/c49b91d5-150e-4e27-92c3-fcbf66b9cf61)
 
 ### Примеры 3: Plotly
 Пример использования для создания **диаграммы рассеяния**:
@@ -114,10 +112,7 @@ fig.update_layout(title='Диаграмма рассеяния (Plotly)', xaxis_
 fig.show()
 
 ```
-![image](https://github.com/user-attachments/assets/4321846b-9b8f-4126-b06d-af03d0d6bca4)
-![image](https://github.com/user-attachments/assets/310879a8-81b1-41e8-83ff-ee041264fbc3)
-![image](https://github.com/user-attachments/assets/f904128e-957b-4930-9ffd-eec451e3888d)
-
+![image](https://github.com/user-attachments/assets/6adb597c-4ba2-42e7-957f-dbc923fe9d1e)
 
 ## Рекомендации по выбору библиотеки
 
