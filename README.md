@@ -113,6 +113,7 @@ fig = go.Figure(data=go.Scatter(x=[1, 2, 3, 4, 5], y=[1, 4, 9, 16, 25], mode='ma
 fig.update_layout(title='Диаграмма рассеяния (Plotly)', xaxis_title='X', yaxis_title='Y')
 fig.show()
 
+```
 ![image](https://github.com/user-attachments/assets/4321846b-9b8f-4126-b06d-af03d0d6bca4)
 ![image](https://github.com/user-attachments/assets/310879a8-81b1-41e8-83ff-ee041264fbc3)
 ![image](https://github.com/user-attachments/assets/f904128e-957b-4930-9ffd-eec451e3888d)
